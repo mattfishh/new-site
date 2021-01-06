@@ -14,7 +14,7 @@ organizations:
   url: https://www.wlu.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My professional interests span from digital marketing, to UX design, to optimizing web experiences through simple and readable code. Always looking to chat and learn more about almost anything, feel free to shoot me a message if you want to talk!
 
 # Interests to show in About widget
 interests:
@@ -44,16 +44,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/mattfishh
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mattfishh
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/matt-fish
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
