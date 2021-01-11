@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Product Specialist
-    company: GenCoin
+    company: Dropbase
     company_url: 'https://dropbase.io'
     location: San Fansisco, California
     date_start: '2021-01-01'
