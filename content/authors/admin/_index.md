@@ -40,7 +40,6 @@ highlight_name: false
 title: Matthew Fish
 email: ""
 ---
-
-Matt Fish is a student at Wilfrid Laurier Univeristy completing his final year of a double degree of business and computer science. Outside the classroom, Matt serves as the captain of the school's varsity rugby team, and is an avid nature photographer.
+I'm a double degree business and computer science, finishing up my last year at Wilfrid Laurier University. Outside the classroom, I serve as the captain of the school's varsity rugby team, and am an avid nature photographer. You can [check out some of my photography work here](https://instagram.com/mattfishh). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
