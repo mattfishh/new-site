@@ -2,7 +2,7 @@
 widget: accomplishments
 headless: true
 weight: 50
-title: Accomplishments & Awards
+title: Achievements & Awards
 subtitle: null
 date_format: Jan 2006
 item:
