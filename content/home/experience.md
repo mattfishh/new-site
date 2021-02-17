@@ -43,7 +43,7 @@ experience:
     company_url: 'https://www.cooperators.ca/'
     location: Kitchener, Ontario
     date_start: '2019-01-01'
-    date_end: '2019-04-31'
+    date_end: '2019-04-30'
     description: 
     
   - title: Marketing and Analytics
