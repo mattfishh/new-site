@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: 
         
-  - title: Software Developer & Product Manager
+  - title: Product Manager
     company: The Cooperators
     company_url: 'https://www.cooperators.ca/'
     location: Kitchener, Ontario
@@ -53,6 +53,7 @@ experience:
     date_start: '2018-05-01'
     date_end: '2018-08-31'
     description: 
+    
   - title: Operations Analyst
     company: Hungry Jacks
     company_url: 'https://www.hungryjacks.com.au/'
