@@ -6,13 +6,13 @@ title: Achievements & Awards
 subtitle: null
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ""
-    date_start: 2018-10-01
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - certificate_url: 
+    date_end: "2021-04-01"
+    date_start: 2016-10-01
+    description: "Awarded to student athletes who maintain an average in excess of 80% during an academic year"
+    organization: Ontario University Athletics
+    organization_url: https://www.laurierathletics.com/createarticle.php?ID=10757&String=Matt%20Fish
+    title: 5x OUA Academic Achievement Award 
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
