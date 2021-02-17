@@ -25,17 +25,25 @@ experience:
   - title: Product Specialist
     company: Dropbase
     company_url: 'https://dropbase.io'
-    location: San Fansisco, California
+    location: San Fransisco, California
     date_start: '2021-01-01'
     date_end: ''
     description: 
         
+  - title: Software Developer & Product Manager
+    company: The Cooperators
+    company_url: 'https://www.cooperators.ca/'
+    location: Kitchener, Ontario
+    date_start: '2019-09-01'
+    date_end: '2019-12-31'
+    description: 
+    
   - title: Software Developer
     company: The Cooperators
     company_url: 'https://www.cooperators.ca/'
     location: Kitchener, Ontario
     date_start: '2019-01-01'
-    date_end: '2019-12-31'
+    date_end: '2019-04-31'
     description: 
     
   - title: Marketing and Analytics
