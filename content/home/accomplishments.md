@@ -6,6 +6,14 @@ title: Achievements & Awards
 subtitle: null
 date_format: Jan 2006
 item:
+- certificate_url: 
+    date_end: ""
+    date_start: 2019-03-01
+    description: Granted to the male athlete at Wilfrid Laurier Univeristy who best combines athletics and academics
+    organization: Wilfrid Laurier University
+    organization_url: https://wlu.ca
+    title: Luke Fusco Academic Athletic Achievement Award
+    url: https://www.laurierathletics.com/createarticle.php?ID=10155
   - certificate_url: 
     date_end: "2021-04-01"
     date_start: 2016-10-01
@@ -16,7 +24,7 @@ item:
     url: ""
   - certificate_url: 
     date_end: ""
-    date_start: 2018-03-01
+    date_start: 2020-03-01
     description: Awarded to a senior business administration student who has shown interest in investing, history of high academic achievement, and has been part of either the Laurier Investment and Finance Association (LIFA) or the Laurier Student Investment Fund (LSIF)
     organization: CI Investments
     organization_url: https://ci.com/en/portfolio/cambridge
@@ -25,7 +33,7 @@ item:
   - certificate_url: 
     date_end: 
     date_start: 2017-04-21
-    description: Awarded to the group pitching the best startup idea at Wilfrid Laurier University. Awarded $5,000 for concept of turning ocean plastics into sustainable eyewear frames, with proceeds fuelling further cleaning of the oceans.
+    description: Awarded to the group pitching the best startup idea at Wilfrid Laurier University. Awarded $5,000 for concept of turning ocean plastics into sustainable eyewear frames, with proceeds fuelling further cleaning of the oceans. Placed first out of 285 teams.
     organization: Wilfrid Laurier University
     organization_url: https://www.wlu.ca
     title: BDO New Venture Champion
