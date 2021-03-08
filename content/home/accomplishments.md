@@ -6,7 +6,7 @@ title: Achievements & Awards
 subtitle: null
 date_format: Jan 2006
 item:
-- certificate_url: 
+  - certificate_url: 
     date_end: ""
     date_start: 2019-03-01
     description: Granted to the male athlete at Wilfrid Laurier Univeristy who best combines athletics and academics
