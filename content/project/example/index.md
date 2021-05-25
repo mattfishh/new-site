@@ -6,7 +6,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 categories:
   - Business
-external_link: NA
+external_link: stocks
 url_slides: ""
 title: Stocks
 tags:
