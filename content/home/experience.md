@@ -25,7 +25,7 @@ experience:
   - title: Product Specialist
     company: Dropbase
     company_url: 'https://dropbase.io'
-    location: San Fransisco, California
+    location: San Francisco, California
     date_start: '2021-01-01'
     date_end: ''
     description: 
